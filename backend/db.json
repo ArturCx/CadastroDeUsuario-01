@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Artur César",
+      "email": "arturcesarsilva@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Tokuchi Toua",
+      "email": "tokuchitoua@yahoo.com.br"
+    }
+  ]
+}
